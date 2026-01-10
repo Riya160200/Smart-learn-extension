@@ -1,4 +1,4 @@
-# Smart-learn-extension
+# Smart Learn Extension
 
 **AI-Powered Learning Assistant for YouTube**
 
